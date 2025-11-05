@@ -19,7 +19,7 @@
     <properties>
         <java.version>17</java.version>
         <sonar.host.url>http://localhost:9000</sonar.host.url>
-        <sonar.token>squ_66d248923f00129248fd079db2087497d400f89b</sonar.token>
+        <sonar.token>squ_3924aa8cead8ac24ff33ab76aa328eff0deb4de4</sonar.token>
     </properties>
 
     <dependencies>
